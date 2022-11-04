@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/klaud/CLionProjects/sudoku/sudoku.cpp
+sudoku.h
+C:/Users/klaud/CLionProjects/sudoku/sudoku.h
+
+C:/Users/klaud/CLionProjects/sudoku/sudoku.h
+iostream
+-
+fstream
+-
+chrono
+-
+cmath
+-
+vector
+-
+windows.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctime
+-
+iomanip
+-
+map
+-
+
